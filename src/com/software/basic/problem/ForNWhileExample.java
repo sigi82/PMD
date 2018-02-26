@@ -2,6 +2,9 @@ package com.software.basic.problem;
 
 import java.util.Scanner;
 
+/**
+ * 일반적인 for문과 while문의 사용법
+ */
 public class ForNWhileExample {
 
 	public static void main(String[] args) {
